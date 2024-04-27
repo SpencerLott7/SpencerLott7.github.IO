@@ -1,12 +1,54 @@
-*{
+.topic{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 34px;
+    margin: 12px;
+    color: rgb(206, 206, 201);
     text-align: center;
+}
+.top{
+    padding-left: 40px;
+    font-size: 42px;
+}
+.top2{
+    padding-left: 40px;
+    font-size: 20px;
 }
 .PT{
     font-family: fantasy;
     font-size: 34px;
     margin: 12px;
+    color: rgb(206, 206, 201);
+    text-align: center;
 }
 .text{
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:auto;
+    color: rgb(206, 206, 201);
+    text-align: center;
+}
+.container{
+    background-color: #1b1b1b;
+    border-radius: 20px;
+}
+.row{
+    margin: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.col{
+    margin:10x;
+    text-align: center;
+}
+body{
+    background-color: rgb(145, 232, 171);
+}
+hr{
+    color: rgb(206, 206, 201);
+    margin:5px;
+}
+br{
+    color: rgb(206, 206, 201);
+    margin:5px;
 }
