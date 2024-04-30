@@ -5,15 +5,31 @@
     color: rgb(206, 206, 201);
     text-align: center;
 }
-.top{
+#top{
     padding-left: 40px;
     font-size: 42px;
+    color: rgb(206, 206, 201);
 }
 .top2{
     padding-left: 40px;
     font-size: 20px;
+    color: rgb(206, 206, 201);
 }
 .PT{
+    font-family: fantasy;
+    font-size: 34px;
+    margin: 12px;
+    color: rgb(206, 206, 201);
+    text-align: center;
+}
+#ET{
+    font-family: fantasy;
+    font-size: 34px;
+    margin: 12px;
+    color: rgb(206, 206, 201);
+    text-align: center;
+}
+#TA{
     font-family: fantasy;
     font-size: 34px;
     margin: 12px;
