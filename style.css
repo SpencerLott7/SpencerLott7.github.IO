@@ -15,6 +15,16 @@
     font-size: 20px;
     color: rgb(206, 206, 201);
 }
+.topnav{
+    text-align: center;
+    background-color: #363636;
+    margin-left: 20%;
+    margin-right:20%;
+    border-radius: 28px;
+    border-color: #1b1b1b;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .PT{
     font-family: fantasy;
     font-size: 34px;
