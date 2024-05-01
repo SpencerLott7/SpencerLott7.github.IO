@@ -46,6 +46,13 @@
     color: rgb(206, 206, 201);
     text-align: center;
 }
+#DJ{
+    font-family: fantasy;
+    font-size: 34px;
+    margin: 12px;
+    color: rgb(206, 206, 201);
+    text-align: center;
+}
 .text{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
